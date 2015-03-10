@@ -18,6 +18,7 @@ The SVR based music emotion recognition consists of three steps:
 2. These features and their combination must then be mapped into emotion categories on a plane; this technique quantifies emotions.
 3. Find regression functions that will enable the mapping of the music to a category, i.e. placing it on the plane. When a piece is playing, the computer will retrieve the musical features, then use the regression functions that take these features as inputs, to output the emotion as coordinates (in the form of a vector) a plane.
 
+
 Talk about experiment of http://www.cs.cmu.edu/~rbd/papers/emotion-ismir-09.pdf.
 
 
